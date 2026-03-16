@@ -5,7 +5,7 @@ module.exports = {
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
-  base: '/blog/',
+  base: '/learn-blog/',
   plugins: [
     [
       '@vuepress-reco/vuepress-plugin-kan-ban-niang',
